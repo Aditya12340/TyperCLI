@@ -21,7 +21,7 @@ Shows you a line of words. You type them. Correct characters turn green, mistake
 Requires Python 3 (preinstalled on macOS/Linux; on Windows use WSL, since `curses` isn't native there).
  
 ```bash
-git clone https://github.com/yourusername/typetest-cli.git
+git clone https://github.com/Aditya12340/typetest-cli.git
 cd typetest-cli
 python3 typetest.py
 ```
